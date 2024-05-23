@@ -2,7 +2,7 @@
 
 ##Бейдж
 
-![Java CI](https://github.com/username/repo-name/actions/workflows/ci.yml/badge.svg)
+![Java CI](https://github.com/D1MAKOOL/tz-2/actions/workflows/main.yml/badge.svg)
 
 ##Диаграмма
 
