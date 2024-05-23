@@ -1,5 +1,11 @@
 # Простейшая программа для работы с числами из файла и настройка CI/CD
 
+##Бейдж
+
+![Java CI](https://github.com/username/repo-name/actions/workflows/ci.yml/badge.svg)
+
+##Диаграмма
+
 ![photo_2024-05-23 18 55 28](https://github.com/D1MAKOOL/tz-2/assets/167441082/62adf1dd-0699-40ef-9ad5-ba02556ba197)
 
 
